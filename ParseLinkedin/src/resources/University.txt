@@ -1,0 +1,187 @@
+massachusetts institute of technology1
+stanford university1
+carnegie mellon university1
+university of california, berkeley1
+university of cambridge1
+harvard university1
+university of oxford1
+princeton university1
+eth zurich - swiss federal institute of technology1
+national university of singapore1
+university of toronto1
+imperial college london1
+university of california, los angeles1
+the university of melbourne1
+tsinghua university1
+peking university1
+university of washington1
+the university of tokyo1
+nanyang technological university, singapore2
+uiversity of minnesota2
+cornell university2
+the university of edinburgh2
+university of british columbia2
+the university of hong kong2
+university of texas at austin2
+california institute of technology2
+georgia institute of technology2
+columbia university2
+university of illinois at urbana-champaign2
+university of waterloo2
+new york university2
+kaist - korea advanced institute of science & technology2
+yale university2
+the chinese university of hong kong2
+the australian national university2
+ucl2
+seoul national university2
+university of pennsylvania2
+technical university of munich3
+national taiwan university3
+the university of new south wales3
+the university of sydney3
+university of california, san diego3
+shanghai jiao tong university3
+university of michigan3
+university of maryland, college park3
+lomonosov moscow state university3
+university of southern california3
+aarhus university3
+boston university3
+city university of hong kong3
+delft university of technology3
+duke university3
+fudan university3
+indian institute of technology bombay3
+indian institute of technology delhi3
+johns hopkins university3
+king's college london3
+kit, karlsruhe institute of technology4
+korea university4
+kth royal institute of technology4
+kyoto university4
+mcgill university4
+monash university4
+national tsing hua university4
+pennsylvania state university4
+pohang university of science and technology4
+purdue university4
+rwth aachen university4
+rmit university4
+sapienza university of rome4
+sungkyunkwan university4
+technion - israel institute of technology4
+vienna university of technology4
+the hong kong polytechnic university4
+the university of auckland4
+the university of manchester4
+the university of queensland4
+tokyo institute of technology4
+alma mater studiorum - university of bologna4
+university of amsterdam4
+university of california, irvine4
+university of chicago4
+university of massachusetts amherst4
+university of science and technology of china4
+university of technology sydney4
+university of wisconsin-madison4
+yonsei university4
+麻省理工学院1
+斯坦福大学1
+卡内基梅隆大学1
+加州大学伯克利分校1
+剑桥大学1
+哈佛大学1
+牛津大学1
+普林斯顿大学1
+苏黎世联邦理工学院1
+新加坡国立大学1
+多伦多大学1
+伦敦帝国理工学院1
+加州大学洛杉矶分校1
+墨尔本大学1
+清华大学1
+北京大学1
+华盛顿大学1
+东京大学1
+新加坡南洋理工大学2
+康奈尔大学2
+爱丁堡大学2
+英属哥伦比亚大学2
+洛桑联邦理工学院2
+香港大学2
+德克萨斯大学奥斯丁分校2
+加州理工学院2
+佐治亚理工学院2
+哥伦比亚大学2
+伊利诺伊大学香槟分校2
+滑铁卢大学2
+纽约大学2
+耶鲁大学2
+香港中文大学2
+澳大利亚国立大学2
+伦敦大学学院2
+首尔国立大学2
+宾夕法尼亚大学2
+美国华盛顿大学2
+慕尼黑工业大学3
+国立台湾大学3
+新南威尔士大学3
+悉尼大学3
+加州大学圣地亚哥分校3
+上海交通大学3
+密歇根大学3
+马里兰大学帕克分校3
+莫斯科国立大学3
+米兰理工大学3
+南加州大学3
+奥胡斯大学3
+波士顿大学3
+香港城市大学3
+代尔夫特理工大学3
+杜克大学3
+巴黎高等师范学院3
+复旦大学3
+印度理工学院孟买分校3
+印度理工学院德里分校3
+约翰斯霍普金斯大学4
+天主教鲁汶大学4
+伦敦大学国王学院4
+卡尔斯鲁厄理工学院4
+高丽大学4
+瑞典皇家理工学院4
+京都大学4
+慕尼黑大学4
+麦吉尔大学4
+莫纳什大学4
+国立清华大学4
+宾夕法尼亚州立大学4
+浦项科技大学4
+都灵理工大学4
+普度大学4
+亚琛工业大学4
+皇家墨尔本理工大学4
+罗马第一大学4
+成均馆大学4
+以色列理工学院4
+柏林工业大学4
+维也纳技术大学4
+香港理工大学4
+奥克兰大学4
+曼彻斯特大学4
+昆士兰大学4
+东京工业大学4
+圣保罗大学4
+金边大学4
+博洛尼亚大学4
+马来亚大学4
+马来西亚理科大学4
+马来西亚工艺大学4
+阿姆斯特丹大学4
+加州大学欧文分校4
+芝加哥大学4
+马萨诸塞大学安姆斯特分校4
+中国科技大学4
+悉尼科技大学4
+威斯康辛大学麦迪逊分校4
+延世大学4
